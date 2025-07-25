@@ -1,0 +1,60 @@
+{
+    "abbas": {
+        "password": "abbas",
+        "email": "ghulamabbas99889988@gmail.com",
+        "goals": [],
+        "moods": [
+            {
+                "timestamp": "2025-07-25T04:28:31.647711",
+                "mood_text": "Sad",
+                "mood_emoji": "\ud83d\ude22",
+                "description": "jkjjkj"
+            },
+            {
+                "timestamp": "2025-07-25T04:28:46.356515",
+                "mood_text": "Stressed",
+                "mood_emoji": "\ud83d\ude23",
+                "description": ""
+            },
+            {
+                "timestamp": "2025-07-25T04:28:55.410758",
+                "mood_text": "Stressed",
+                "mood_emoji": "\ud83d\ude23",
+                "description": "gggg"
+            },
+            {
+                "timestamp": "2025-07-25T04:29:07.146509",
+                "mood_text": "Sad",
+                "mood_emoji": "\ud83d\ude22",
+                "description": "gggg"
+            },
+            {
+                "timestamp": "2025-07-25T04:42:26.577925",
+                "mood_text": "Sad",
+                "mood_emoji": "\ud83d\ude22",
+                "description": "so sad"
+            }
+        ],
+        "journals": [
+            {
+                "timestamp": "2025-07-25T04:38:33.573379",
+                "content": "fldsdjsjdfljkfdjdsfkdfsjkldfskdfsjkdfs"
+            },
+            {
+                "timestamp": "2025-07-25T04:42:46.649871",
+                "content": "hi"
+            },
+            {
+                "timestamp": "2025-07-25T05:00:53.891076",
+                "content": "hello"
+            }
+        ]
+    },
+    "ee": {
+        "password": "ee",
+        "email": "agg@gmail.com",
+        "goals": [],
+        "moods": [],
+        "journals": []
+    }
+}
